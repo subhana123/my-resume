@@ -11,7 +11,7 @@ const About = () => {
       <Image
         className="object-cover object-center rounded mx auto w-[300px] h-[400px]" 
         alt="hero"
-        src="/pictures/simple-calculator.webp"  width={300} height={300}
+        src="/pictures/Picture.png"   width={300} height={300}
         
       />
     </div>
